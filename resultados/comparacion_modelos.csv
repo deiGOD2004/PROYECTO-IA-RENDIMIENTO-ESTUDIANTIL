@@ -1,0 +1,9 @@
+"Modelo","Ocultas","Accuracy"
+"Logística multinomial",0,0.7075
+"Red neuronal (nnet)",1,0.7563
+"Red neuronal (nnet)",2,0.7688
+"Red neuronal (nnet)",3,0.7799
+"Red neuronal (nnet)",5,0.7674
+"Red neuronal (nnet)",8,0.7577
+"Red neuronal (nnet)",10,0.7465
+"Red neuronal (nnet)",15,0.7117
